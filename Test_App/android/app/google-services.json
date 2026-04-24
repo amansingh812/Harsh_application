@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237648912136",
+    "project_id": "schoolscout-9c41f",
+    "storage_bucket": "schoolscout-9c41f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237648912136:android:88f4ee8fe9f419013056bd",
+        "android_client_info": {
+          "package_name": "com.techhub.schoolScout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7LG8OWXM-YqipcZip7aXmT7Pj9VrLaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
